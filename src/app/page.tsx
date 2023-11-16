@@ -1,3 +1,4 @@
+'use client'
 import { useCounter } from "./hooks/useCounter"
 
 export default function Home() {
